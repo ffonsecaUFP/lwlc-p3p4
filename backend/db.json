@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Steve Legend",
+      "email": "slegend@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Albert Tree",
+      "email": "tree@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "John String",
+      "email": "string@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Mary Array",
+      "email": "array@gmail.com"
+    }
+  ]
+}
