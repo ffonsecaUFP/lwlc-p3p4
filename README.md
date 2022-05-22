@@ -12,7 +12,7 @@ This project was created with:
 
 ```shell
 # Go into the folder
-$ cd crud-project
+$ cd lwlc-p3p4
 
 # Backend
 $ cd backend
